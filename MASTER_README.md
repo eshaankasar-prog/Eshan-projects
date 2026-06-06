@@ -32,7 +32,7 @@ A scheduled automation replacing 3–5 hours of daily manual document coordinati
 
 → [Full Case Study PDF](01_EshanPowerflow/EshanPowerflow_CaseStudy.pdf)  
 → [Flow Export (.zip)](01_EshanPowerflow/EshanPowerflow_20260604181708.zip)  
-→ [Walkthrough GIF](01_EshanPowerflow/assets/walkthrough.gif)
+→ [Guide](01_EshanPowerflow/assets/Guide.pdf)
 
 ---
 
