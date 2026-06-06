@@ -89,8 +89,7 @@ Cross-references Certificate of Analysis (COA) document availability against act
 **Tool:** Power BI + Microsoft Copilot  
 *(Add description here — what does it track? What KPIs? What data source?)*
 
-→ [Screenshots](05_PowerBI_Dashboard/assets/)  
-→ [Case Study PDF](05_PowerBI_Dashboard/CaseStudy.pdf) *(if available)*
+→ [Case Study PDF](05_PowerBI_Dashboard/Dashboard-Kpi.pdf)
 
 ---
 
