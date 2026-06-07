@@ -17,10 +17,6 @@ A logistics team of multiple planners had no real-time visibility into individua
 ## Solution
 
 Each team member logs their daily transactions into an individual SharePoint file. Power BI connects to all files simultaneously, consolidates them into a unified data model, and surfaces a fully interactive performance command center.
-
-[![KPI Dashboard Overview](assets/screenshots/dashboard_overview.png)](assets/screenshots/dashboard_overview.png)
-*Add your screenshot here — dashboard overview*
-
 ---
 
 ## What the Dashboard Shows
@@ -88,6 +84,6 @@ This is not a reporting tool. It is a **team accountability system with root-cau
 
 | File | Description |
 |------|-------------|
-| [🖼️ Screenshots](assets/screenshots/) | Power BI dashboard screenshots |
+| [🖼️ Dashboard](Dashboard-Kpi.pdf) | Power BI dashboard |
 
 > **Note:** Power BI reports run inside an M365 organizational tenant and cannot be shared via public URL. Screenshots and a Loom walkthrough serve as portfolio artifacts. Live demo available on request via screen-share.
