@@ -69,7 +69,7 @@ Each team member logs daily transactions into an individual SharePoint file. Pow
 ### Files
 | File | Description |
 |------|-------------|
-| [🖼️ Dashboard Screenshots](02_KPI_Dashboard/assets/) | Power BI report screenshots |
+| [🖼️ Dashboard ](02_KPI_Dashboard/Dashboard-Kpi.pdf/) | Power BI report screenshots |
 | [📖 Project README](02_KPI_Dashboard/README.md) | Full project documentation |
 
 > Live demo available on request — Power BI runs inside M365 tenant and cannot be shared via public URL.
