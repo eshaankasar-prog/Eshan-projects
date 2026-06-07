@@ -1,7 +1,5 @@
 # 02 — KPI Performance Dashboard
 
-[← Back to Portfolio](../README.md)
-
 **Tool:** Power BI · SharePoint · Microsoft Copilot  
 **Type:** Management Reporting — Team Performance Accountability System  
 **Status:** ✅ Deployed in production
