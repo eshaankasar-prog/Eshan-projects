@@ -28,16 +28,6 @@ When files are detected, the flow checks a SharePoint List to ensure no concurre
 A Teams approval notification is sent to designated approvers. The flow pauses and waits for a response:
 - **Approved** → file moved to OUT folder, Teams channel notified, list status updated
 - **Rejected** → nested For Each loop logs each file as a new row in the Excel audit table
-
-[![Phase 1 — Trigger & Detection](assets/flow_trigger_conditions.png)](assets/flow_trigger_conditions.png)
-*Figure 1: Recurrence trigger, file detection, and PDF Available condition gate*
-
-[![Phase 2 — File Processing](assets/flow_file_processing.png)](assets/flow_file_processing.png)
-*Figure 2: File copy, delete, IND scan, Select/Join transformation, approval trigger*
-
-[![Phase 3 — Approval Routing](assets/flow_approval_routing.png)](assets/flow_approval_routing.png)
-*Figure 3: Post-approval branching — True path (OUT folder) and False path (Excel log)*
-
 ---
 
 ## Step-by-Step Flow Walkthrough
@@ -83,19 +73,6 @@ A Teams approval notification is sent to designated approvers. The flow pauses a
 | Approval visibility | Real-time via Teams |
 | Audit trail completeness | 100% logged — timestamp, approver, decision |
 | Concurrent run safety | Race-condition proof via SharePoint list lock |
-
----
-
-## Files in This Folder
-
-| File | Description |
-|------|-------------|
-| [📄 EshanPowerflow_CaseStudy.pdf](EshanPowerflow_CaseStudy.pdf) | Full case study with annotated screenshots |
-| [📦 EshanPowerflow_20260604181708.zip](EshanPowerflow_20260604181708.zip) | Importable Power Automate flow export |
-| [🖼️ flow_trigger_conditions.png](assets/flow_trigger_conditions.png) | Phase 1 screenshot |
-| [🖼️ flow_file_processing.png](assets/flow_file_processing.png) | Phase 2 screenshot |
-| [🖼️ flow_approval_routing.png](assets/flow_approval_routing.png) | Phase 3 screenshot |
-| [🎞️ walkthrough.gif](assets/walkthrough.gif) | Live flow execution recording |
 
 ---
 
