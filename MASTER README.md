@@ -50,10 +50,6 @@ A scheduled Power Automate cloud flow that detects new PDF uploads, locks the pr
 |------|-------------|
 | [📄 EshanPowerflow_CaseStudy.pdf](01_EshanPowerflow/EshanPowerflow_CaseStudy.pdf) | Full case study with annotated screenshots and step walkthrough |
 | [📦 EshanPowerflow_20260604181708.zip](01_EshanPowerflow/EshanPowerflow_20260604181708.zip) | Importable Power Automate flow export |
-| [🖼️ Flow Trigger Screenshot](01_EshanPowerflow/assets/flow_trigger_conditions.png) | Phase 1 — Recurrence, file detection, condition gate |
-| [🖼️ File Processing Screenshot](01_EshanPowerflow/assets/flow_file_processing.png) | Phase 2 — File copy, move, Select/Join, approval launch |
-| [🖼️ Approval Routing Screenshot](01_EshanPowerflow/assets/flow_approval_routing.png) | Phase 3 — Post-approval branching, Teams notification, Excel log |
-| [🎞️ Walkthrough GIF](01_EshanPowerflow/assets/walkthrough.gif) | Live flow execution recording |
 | [📖 Project README](01_EshanPowerflow/README.md) | Full project documentation |
 
 ---
