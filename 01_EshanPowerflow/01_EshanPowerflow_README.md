@@ -1,6 +1,6 @@
 # 01 — EshanPowerflow: Document Routing & Approval Automation
 
-[← Back to Portfolio](../README.md)
+[← Back to Portfolio](../MASTER README.md)
 
 **Tool:** Microsoft Power Automate (Cloud Flow) · SharePoint · Microsoft Teams · Excel Online · AI Builder  
 **Type:** Process Automation  
