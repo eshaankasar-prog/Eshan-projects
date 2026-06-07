@@ -18,10 +18,10 @@
 | [01](#01-eshanpowerflow--document-routing--approval-automation) | EshanPowerflow | Power Automate · SharePoint · Teams | 3–5 hrs/day | ✅ Deployed |
 | [02](#02-kpi-performance-dashboard) | KPI Performance Dashboard | Power BI · SharePoint · Copilot | Real-time visibility | ✅ Deployed |
 | [03](#03-cargodocs-saas-in-progress) | Cargodocs SaaS | React · TypeScript · Supabase | — | 🚧 In Progress |
-| [04](#04-daily-container-status-tracker) | Daily Container Status Tracker | Power Query · Excel | 130.5 hrs/year | ✅ Lean Project #2 |
+| [04](#04-daily-container-status-tracker) | Daily Container Status Tracker | Power Query · Excel | 130.5 hrs/year | ✅ Lean Project |
 | [05](#05-zcomex-turboquery-analysis) | Zcomex TurboQuery Analysis | Power Query · VBA · Excel | ~120 hrs/year | ✅ Deployed |
-| [06](#06-auto-skit-report) | Auto SKIT Report | Power Query · Excel | 130.5 hrs/year | ✅ Lean Project #3 |
-| [07](#07-auto-coa-report) | Auto COA Report | Power Query · Excel | 43.5 hrs/year | ✅ Lean Project #4 |
+| [06](#06-auto-skit-report) | Auto SKIT Report | Power Query · Excel | 130.5 hrs/year | ✅ Lean Project |
+| [07](#07-auto-coa-report) | Auto COA Report | Power Query · Excel | 43.5 hrs/year | ✅ Lean Project |
 
 ---
 
@@ -64,11 +64,7 @@ A scheduled Power Automate cloud flow that:
 ├── EshanPowerflow_CaseStudy.pdf
 ├── EshanPowerflow_20260604181708.zip
 ├── README.md
-└── assets/
-    ├── flow_trigger_conditions.png
-    ├── flow_file_processing.png
-    ├── flow_approval_routing.png
-    └── walkthrough.gif
+
 ```
 
 > **To import the flow:** Power Automate → My Flows → Import → Upload .zip → Map connections (SharePoint, Teams, Excel) → Enable. Requires M365 with standard connectors.
