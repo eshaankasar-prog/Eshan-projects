@@ -1,5 +1,5 @@
 # 03 — Cargodocs SaaS *(In Progress)*
-
+> **Live app link:** *https://cargodocs.lovable.app/*
 
 **Stack:** React · TypeScript · Supabase · TanStack Router · Lovable AI  
 **Type:** Full-Stack Product Build  
@@ -74,25 +74,4 @@ The difference between those projects and Cargodocs is the difference between **
 - 🔲 COA cross-reference engine — planned
 - 🔲 AI document parsing — planned
 
----
-
-## Connection to the Rest of This Portfolio
-
-| This Portfolio Project | Cargodocs Equivalent |
-|------------------------|---------------------|
-| [04 — Daily Container Status](../04_Daily_Container_Status/) | Live container dashboard, auto-refreshed from database |
-| [05 — Zcomex TurboQuery](../05_Zcomex_TurboQuery/) | Compliance exception engine, rule-based flagging |
-| [06 — Auto SKIT Report](../06_Auto_SKIT_Report/) | SKIT readiness report, generated on demand |
-| [07 — Auto COA Report](../07_Auto_COA_Report/) | COA status tracker with pre-pickup alerts |
-| [01 — EshanPowerflow](../01_EshanPowerflow/) | Document approval workflow, built natively into the product |
-
----
-
-## Files in This Folder
-
-| File | Description |
-|------|-------------|
-| [🖼️ Screenshots](assets/screenshots/) | Current build screenshots — updated as development progresses |
-
-> **Live app link:** *(add when staging environment is ready)*  
-> **Source repo link:** *(add if making public)*
+> **Live app link:** *https://cargodocs.lovable.app/*
